@@ -1,0 +1,16 @@
+[
+  {
+    "objective": "Увеличить удержание пользователей",
+    "key_results": [
+      {"name": "Retention D30", "start": 20, "current": 28, "target": 35},
+      {"name": "NPS", "start": 30, "current": 42, "target": 50}
+    ]
+  },
+  {
+    "objective": "Ускорить онбординг",
+    "key_results": [
+      {"name": "Time to value (мин)", "start": 20, "current": 8, "target": 5},
+      {"name": "Активация, %", "start": 40, "current": 55, "target": 70}
+    ]
+  }
+]
